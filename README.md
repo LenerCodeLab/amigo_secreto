@@ -11,7 +11,7 @@ Una aplicación simple y divertida para organizar un sorteo de "Amigo Secreto". 
 
 ## 📷 Captura de pantalla
 
-![alt text](assets\image.png)
+![Vista previa del proyecto](assets/image.png)
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -25,8 +25,3 @@ Una aplicación simple y divertida para organizar un sorteo de "Amigo Secreto". 
 
    ```bash
    git clone https://github.com/tu-usuario/amigo_secreto.git
-   <<<<<<< HEAD
-   =======
-   ```
-
-   > > > > > > > recuperado
